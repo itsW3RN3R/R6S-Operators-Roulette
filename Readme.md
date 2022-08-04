@@ -2,15 +2,20 @@
 A simple Roulette for Rainbow Six Siege to give random operator every round or match to have fun while playing and most importantly to throw em matches :D.
 <br><br>
 
-# How to Run 
-Download zip file from Release unzip it double click `R6OPS Roulette.exe` and enjoy.
+# How to use
+* if you just want to download its easy go to [release](https://github.com/itsW3RN3R/R6S-Operators-Roulette/releases "Releases") and download Release.Zip launch the `R6OPS Roulette.exe` and enjoy.<br>
+* But if you want to edit the code or add something (am pretty sure you know how to download/clone since you want source code :D) just make sure to put folder called `icons` inside `Debug or Release` Folder i couldn't figure out a way around it tired of googling for it i give up for now atleast am noobie sry.<br>
 <br><br>
 
 
 # Preview 
-* I made the design to look like `DokkaOS(Dokkaebi Device)`.
-![roulette1]()
-![roulette2]()
+* I made the design to look like `DokkaOS(Dokkaebi Device)`.<br><br>
+* This how the app looks like when its starts.<br>
+![onlaunch](https://github.com/itsW3RN3R/R6S-Operators-Roulette/blob/master/Graphics/onlaunch.png)
+* When you click Randomize button it give random OP everytime this as you see Mode is set to fun that means all OPS are in list.<br>
+![fun](https://github.com/itsW3RN3R/R6S-Operators-Roulette/blob/master/Graphics/fun.png)
+* Now the Mode is set to hardcore that means list contains only hard OPS to play or so they say. <br>
+![hardcore](https://github.com/itsW3RN3R/R6S-Operators-Roulette/blob/master/Graphics/hardcore.png)
 <br><br>
 
 # Credits
@@ -25,7 +30,7 @@ Couldn't have done it without using [marcopixel's](https://github.com/marcopixel
 
 
 ## Note :
-Am beginner in programming this is my first app in c# so if you read my code and saw some mistakes or something i could've done simpler or easier hope you can reach out to me and correct me . <br>
+Am beginner in programming this is my first app in c# so if you read my code and saw some mistakes or something i could've done it simply or easier hope you can reach out to me and correct me . <br>
 Thanks in Advance 🥰 .
 
 
